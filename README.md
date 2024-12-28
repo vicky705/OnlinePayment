@@ -24,7 +24,7 @@
 
 - Install the required packages by running the following command in your terminal:
 ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/vicky705/OnlinePayment.git
 ```
 
 ## Backend
