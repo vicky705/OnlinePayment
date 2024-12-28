@@ -72,4 +72,4 @@ This project is open source and available under the [MIT License](https://docs.g
 # Author 
 Vicky (vicky705)
 
-[https://github.com/vicky705](https://github.com/vicky705)s
+[https://github.com/vicky705](https://github.com/vicky705)
